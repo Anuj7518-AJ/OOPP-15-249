@@ -4,7 +4,7 @@ using namespace std;
 class Student {
     int roll;
     string name;
-    float marks;
+    float  marks;
 
 public:
     void input() {
