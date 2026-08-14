@@ -1,0 +1,4 @@
+*
+*.exe
+#whitelist files with extentions and source code
+!*.cpp
