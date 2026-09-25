@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     double salary = 50000;
+    // Pointer variable
 
     
     double *newSalary = &salary;
