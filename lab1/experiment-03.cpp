@@ -21,6 +21,7 @@ public:
         cout << "y = " << y << endl;
     }
 };
+// Main function
 
 int main()
 {
