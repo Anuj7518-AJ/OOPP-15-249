@@ -5,6 +5,7 @@ using namespace std;
 void updateByReference(double &salary) {
     salary = salary + (salary * 0.10);
 }
+// Function to update salary using pointer
 
 
 void updateByAddress(double *salary) {
