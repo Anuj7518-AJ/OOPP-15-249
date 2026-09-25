@@ -9,6 +9,7 @@ void callByValue(int x) {
 void callByReference(int &x) {
     x = x + 10;
 }
+// Function to update value using pointer
 
 
 void callByAddress(int *x) {
