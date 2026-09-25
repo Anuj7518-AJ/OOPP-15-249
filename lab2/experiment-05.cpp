@@ -4,7 +4,6 @@ using namespace std;
 int main() {
     double salary = 50000;
 
-    // Reference variable
     double &newSalary = salary;
 
     // Increase salary by 10%
